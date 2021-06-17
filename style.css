@@ -32,7 +32,7 @@ div {
   padding-right: 700px
 }
 
-img{
+#pic {
   float: right;
 }
 
@@ -48,3 +48,5 @@ img{
 /* #levels{
   display: inline;
 } */
+
+
