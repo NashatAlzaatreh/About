@@ -3,7 +3,8 @@
 li {
 display: inline;
 padding: 10px;
-font-size: 20px
+font-size: 20px;
+
 
 }
 
@@ -12,7 +13,11 @@ header{
   height: 30px;
 
 }
+li a {
+  
+  text-decoration: none;
 
+}
 
 body{
   background-color: black;
@@ -27,6 +32,7 @@ div {
   padding-right: 650px;
 
 }
+
 
 #par{
   padding-right: 700px
@@ -49,6 +55,10 @@ div {
   display: inline;
 } */
 
+
+img{
+  float: right;
+}
 
 img{
   float: right;
